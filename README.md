@@ -1,2 +1,2 @@
-# CommunitySite
-I have one blue eye and one green. And pure white fur. My thrilling adventure towards Raydium, filled with exciting tales and insights into the crypto world.
+# Stride - Bootstrap 5 HTML template
+A simple but clean Bootstrap 5 HTML template from https://templatedeck.com
